@@ -12,3 +12,4 @@ Am ales aceste culori deoarece ilustreaza valoarea liceului
 # anunturi
 \"Scriem Clasa noastră între asteriscuri.\"
 ----------------
+<!-- am verificat prezentarea si orarul clasei. -->
